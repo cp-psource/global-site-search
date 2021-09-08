@@ -1,10 +1,11 @@
 <?php
 /*
 Plugin Name: Netzwerksuche
-Plugin URI: https://n3rds.work/docs/globale-seitensuche-handbuch/
+Plugin URI: https://n3rds.work/piestingtal_source/multisite-netzwerksuche-plugin/
 Description: Ein großartiges Plugin, das eine globale Suche in allen Blogs auf Deiner WordPress Multisite/BuddyPress-Installation mit Leichtigkeit ermöglicht!
 Author: WMS N@W
-Version: 3.2.2
+Version: 3.2.3
+Requires at least: 4.9
 Author URI: https://n3rds.work
 Network: true
 */
