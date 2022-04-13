@@ -11,7 +11,7 @@ Network: true
 */
 
 // +----------------------------------------------------------------------+
-// | Copyright 2018-2021 WMS N@W (https://n3rds.work/)                                |
+// | Copyright 2018-2022 WMS N@W (https://n3rds.work/)                                |
 // +----------------------------------------------------------------------+
 // | This program is free software; you can redistribute it and/or modify |
 // | it under the terms of the GNU General Public License, version 2, as  |
@@ -28,7 +28,7 @@ Network: true
 // | MA 02110-1301 USA                                                    |
 // +----------------------------------------------------------------------+
 
-require 'psource/psource-plugin-update/plugin-update-checker.php';
+require 'psource/psource-plugin-update/psource-plugin-updater.php';
 $MyUpdateChecker = Puc_v4_Factory::buildUpdateChecker(
 	'https://n3rds.work//wp-update-server/?action=get_metadata&slug=global-site-search', 
 	__FILE__, 

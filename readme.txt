@@ -60,6 +60,11 @@ Mach eine [Spende per Überweisung oder PayPal](https://n3rds.work/spendenaktion
 
 == ChangeLog ==
 
+3.2.2 =
+
+* Suchtext-Anpassung
+* Psource Updater v1.2
+
 = 3.2.2 = DerN3rd =
 
 * Overhauled von WPMUDEV
